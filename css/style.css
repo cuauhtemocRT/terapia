@@ -1,7 +1,7 @@
 body {
 	line-height: 1.4;
 	font-family: 'Roboto', sans-serif;
-    color: #67696c;
+    color: #57A9EE;
     font-size: 16px;
     font-weight: 300;
     letter-spacing: 0.5px;
@@ -109,7 +109,7 @@ HEADER
 
 .top-nav-collapse {
     padding: 0; 
-    background: rgba(159,244,254, 0.9);
+    background: rgba(87,169,238, 0.9);
 }
 
 .logo-dec
