@@ -4,30 +4,34 @@ Transferencia bancaria
 Números de 
 
 
-Sección Inicio Ambos botones para whats
-Sección 2 Pasos para la cita 
--Enumerar los pasos de la cita
--En lugar de Recibe un talón de pago poner en número 3 "Modos de pago"
--Quitar oxxo seleve poner (Tranaferencia bancaria o efectivo)
+Sección Inicio Ambos botones para whats  OK
+Sección 2 Pasos para la cita  
+-Enumerar los pasos de la cita OK
+-En lugar de Recibe un talón de pago poner en número 3 "Modos de pago" Ok
+-Quitar oxxo seleve poner (Tranaferencia bancaria o efectivo) Ok
 
 Sección 3 Como te podemos ayudar
-Tipografía en cursiva y a color Azul marino
-Tipos de terapia: tipografía en Azul marino
+Tipografía en cursiva y a color Azul marino 0D3076 0E151C 
+Tipos de terapia: tipografía en Azul marino 
+Pendiente cursiva
 
 Sección 4 ¿Que es el estress? 
-(Titulo en color azul marino y en cursiva)
+(Titulo en color azul marino y en cursiva) 
+Pendiente cursiva
 
 Sección 5 Tratamiento contra la ansiedad
 (Titulo en color azul marino y en cursiva)
 Igualar el color esta un poco bajo de color negro
+Pendiente cursiva
 
 Sección 6 Quedate en casa Acualizar imagenes
 Actualizar titulo y subtitulo (Azul marino)
 
 Sección 7 Tratamiento contra depresión
-(Titulo en color azul marino y en cursiva)
-Igualar el color esta un poco bajo de color negro
-Actualizar título de "Si la tristeza la" sin título
+(Titulo en color azul marino y en cursiva) Ok
+Igualar el color esta un poco bajo de color negro Ok
+Actualizar título de "Si la tristeza la" sin título OK
+Pendiente cursiva
 
 Sección 8 Datos de la terapia
 
